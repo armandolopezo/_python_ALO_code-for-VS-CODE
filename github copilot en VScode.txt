@@ -1,0 +1,7 @@
+7-11-2024
+ALO
+
+* control+I en pantalla de programa python (editando .py) me abre linea para hacer preguntas de GITHUB COPILOT
+
+* En la linea que aparece de GITHUB COPILOT en el programa de VScode para quitar la ayuda de IA me paro y tipeo ESCAPE para salir de GITHUB COPILOT
+
